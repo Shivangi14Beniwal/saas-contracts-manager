@@ -1,5 +1,5 @@
-# saas-contracts-manager
-# 🚀 SaaS Contracts Dashboard
+
+# 🚀 SaaS Contracts manager
 
 A responsive single-page React + Tailwind application that simulates a SaaS contracts management dashboard. Built as part of an assignment to showcase frontend architecture, state management, and UI polish.
 
