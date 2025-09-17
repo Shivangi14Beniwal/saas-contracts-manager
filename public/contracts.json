@@ -1,26 +1,29 @@
 [
   {
     "id": "c1",
-    "name": "MSA 2025",
-    "parties": "Microsoft & ABC Corp",
-    "expiry": "2025-12-31",
+    "name": "Software Development Agreement",
+    "parties": "TechCorp & DevSolutions",
+    "start": "2024-01-15",
+    "expiry": "2025-01-15",
     "status": "Active",
+    "risk": "Low"
+  },
+  {
+    "id": "c2", 
+    "name": "Marketing Services Contract",
+    "parties": "BrandCorp & AdAgency",
+    "start": "2024-02-01",
+    "expiry": "2024-12-31",
+    "status": "Active", 
     "risk": "Medium"
   },
   {
-    "id": "c2",
-    "name": "Network Services Agreement",
-    "parties": "TelNet & ABC Corp",
-    "expiry": "2025-10-10",
-    "status": "Renewal Due",
-    "risk": "High"
-  },
-  {
     "id": "c3",
-    "name": "Cloud Host Contract",
-    "parties": "Contoso & XYZ Ltd",
-    "expiry": "2024-11-01",
+    "name": "Data Processing Agreement",
+    "parties": "DataCorp & ProcessingInc",
+    "start": "2023-06-01",
+    "expiry": "2024-05-31",
     "status": "Expired",
-    "risk": "Low"
+    "risk": "High"
   }
 ]
